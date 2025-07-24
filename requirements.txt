@@ -1,5 +1,11 @@
 langchain
-langgraph
+langgraph~=0.5.4
 langchain_tavily
-langchain_experimental
-streamlit
+langchain_experimental~=0.3.4
+streamlit~=1.47.0
+pypdf
+langchain-core~=0.3.70
+langchain-openai~=0.3.28
+ipython~=8.37.0
+langchain-community~=0.3.27
+openai~=1.97.0
